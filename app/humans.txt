@@ -1,0 +1,11 @@
+  /* TEAM */
+Designer/Developer: Robert Buchanan
+Site: robert@ioneyed.com
+Github: ioneyed
+Location: Hebron, KY
+  /* THANKS */
+  /* SITE */         
+Last update: 2017/07/17
+Standards: HTML5, CSS3
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development

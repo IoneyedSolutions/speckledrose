@@ -1,0 +1,15 @@
+nav {
+  & .brand-logo {
+    & img {
+      height: 64px;
+      vertical-align: middle;
+    }
+    & span {
+      padding-left: 10px;
+      color: $secondary-color;
+    }
+  }
+  & ul li a {
+    color: $secondary-color;
+  }
+}
